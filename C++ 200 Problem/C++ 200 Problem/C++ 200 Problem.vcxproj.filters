@@ -16,6 +16,9 @@
     <Filter Include="Source Files\초급 프로그래밍">
       <UniqueIdentifier>{aac63623-605e-4060-aff1-7964cfe7b862}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\중급 프로그래밍">
+      <UniqueIdentifier>{afdbc3a7-e9ad-4014-858e-51f0a1d9e0b5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -159,6 +162,33 @@
       <Filter>Source Files\초급 프로그래밍</Filter>
     </ClCompile>
     <ClCompile Include="Stringstream.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort().cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Reverse().cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="To_string().cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Min, Max.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Using Pointer.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerArray.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Local Variables.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Global Variables.cpp">
       <Filter>Source Files\초급 프로그래밍</Filter>
     </ClCompile>
   </ItemGroup>
