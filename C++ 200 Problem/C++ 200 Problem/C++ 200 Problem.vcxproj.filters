@@ -32,5 +32,134 @@
     <ClCompile Include="String.cpp">
       <Filter>Source Files\초급 프로그래밍</Filter>
     </ClCompile>
+    <ClCompile Include="Int.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Double.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Bool.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="=.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="+,-.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Increment Operator.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Relational Operator.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Logical Operator.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Conditional Operator.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Comma Operator.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Bit Operator.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Cast Operator.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Explicit Type Conversion.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Sizeof().cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="if~else if~else.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="FindMax(if~else).cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="For~Continue~Break.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="특정 문자 개수 구하기(for).cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Fibonacci(for).cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Pyramid(for,while).cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Floor, Ceil.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Round.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Abs,Fabs,Pow.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Multiplication Table%28for%29.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Quotient,Remainder.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Sqrt.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Modf.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Srand,Rand.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Random_shuffle.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Localtime.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="PassedTime.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="String.Compare.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="String.find.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="String.legnth.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Toupper, Tolower.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="MergeString.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="String.Insert.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="String.erase.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Move().cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="String.Erase,String.Remove.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="String.replace.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Stoi.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Stringstream.cpp">
+      <Filter>Source Files\초급 프로그래밍</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
