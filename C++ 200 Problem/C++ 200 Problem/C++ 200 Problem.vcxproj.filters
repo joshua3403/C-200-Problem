@@ -191,5 +191,119 @@
     <ClCompile Include="Global Variables.cpp">
       <Filter>Source Files\초급 프로그래밍</Filter>
     </ClCompile>
+    <ClCompile Include="CallbyValue.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="CallbyReference.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="CallbyAddress.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Const.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="ConstPointer.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Enum.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="EnumClass.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Single-dimentional Array.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Single,Multi-Dimentional array.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Array Parameter.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Multi-Dimentional Array.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Multi-Dementional Array Parameter.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Fill().cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="fill_n().cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Struct.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Struct Parameter.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Initialize Struct.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Initialize Struct2.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="ifstream, get.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadFile(Stringstream).cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Ofstream.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Current_path%28%29.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Exists().cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Directory_iterator().cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Filesystem.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Ifstream.good().cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="File_size%28%29.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Class.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Class Constructor.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Class Multi-Constructor.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Class default Constructor.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Class Constructor Rest List.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Class ~Constructor.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="New, Delete.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Static Class.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="OOP - Hiding.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="OOP - Encapsulation.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="OOP - Inheritance.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
