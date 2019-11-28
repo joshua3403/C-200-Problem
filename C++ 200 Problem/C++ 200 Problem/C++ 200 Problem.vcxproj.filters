@@ -19,6 +19,9 @@
     <Filter Include="Source Files\중급 프로그래밍">
       <UniqueIdentifier>{afdbc3a7-e9ad-4014-858e-51f0a1d9e0b5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\응용 프로그래밍">
+      <UniqueIdentifier>{bf1cd91e-9a65-4f6d-bc50-b036a24ca9ec}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -304,6 +307,216 @@
     </ClCompile>
     <ClCompile Include="OOP - Inheritance.cpp">
       <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Has-A.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Is-A.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Not-A.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Friend Class.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Friend Function.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Function Overloading.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Function Overriding.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Default Parameter.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Type_traits(int, enum, signed).cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Type_traits(empty,array,same).cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Type_traits(conditional).cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Function Template.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Class Template.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Variable Argument.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Variable Argument(C).cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Inline.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Try catch exception.cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Try catch exception(char, int).cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Try catch exception(runtime_error).cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Thread(join, sleep).cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Thread(detach).cpp">
+      <Filter>Source Files\중급 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Atomic(init, store, load).cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Atomic(Exchange).cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Atomic(compare_exchange_weak).cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Atomic(add, sub).cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Typedef.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Using.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Auto.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Decltype.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Constexpr.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Pair.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Tuple.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Tuble(tile).cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Tuple(cat).cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Tuple(sizseof).cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Tuple(compare).cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Tuple(piecewise_construct).cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector(edit).cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Container and array copy.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Iterator.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="List.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="List(remove, reverse).cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="List(merge, splice).cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Array(fill, at, copy).cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Map(insert, at).cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Map(find, erase).cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Bitset.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Bitset(edit).cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Bitset(operator).cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Lamda.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Lamda(find_if).cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="ForEach(C++).cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Range-Based For.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="All_of.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Any_of.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="None_of.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Is_sorted.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Is_permutation.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Minmax_element.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Distance.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Partition, Partition_point.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Partition_copy.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Copy_if.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Copy_n.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Set-difference.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Isnormal.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Not a number(isnan).cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Isgreater%28%29, Isless%28%29.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
+    </ClCompile>
+    <ClCompile Include="Fdim.cpp">
+      <Filter>Source Files\응용 프로그래밍</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
